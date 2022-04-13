@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AWS-TUTS/.idea/AWS-TUTS.iml" filepath="$PROJECT_DIR$/../AWS-TUTS/.idea/AWS-TUTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DHIS-TUTS/.idea/DHIS-TUTS.iml" filepath="$PROJECT_DIR$/../DHIS-TUTS/.idea/DHIS-TUTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ODK_TUTS.iml" filepath="$PROJECT_DIR$/.idea/ODK_TUTS.iml" />
     </modules>
   </component>
